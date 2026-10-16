@@ -1,0 +1,15 @@
+{
+  "name": "kutsan",
+  "owner": {
+    "name": "Kutsan Kaplan",
+    "url": "https://github.com/kutsan"
+  },
+  "description": "Kutsan's agent skills.",
+  "plugins": [
+    {
+      "name": "kutsan-skills",
+      "source": "./",
+      "description": "Kutsan's agent skills."
+    }
+  ]
+}

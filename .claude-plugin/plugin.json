@@ -1,0 +1,9 @@
+{
+  "name": "kutsan-skills",
+  "description": "Kutsan's agent skills.",
+  "author": {
+    "name": "Kutsan Kaplan",
+    "url": "https://github.com/kutsan"
+  },
+  "repository": "https://github.com/kutsan/skills"
+}
