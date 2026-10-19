@@ -1,9 +1,9 @@
 ---
-name: shell-conventions
+name: functional-shell-conventions
 description: Functional shell conventions for POSIX sh, bash, and zsh. Use when writing or editing shell scripts (.sh/.bash) or zsh config (.zsh, prompts, hooks, completions, aliases).
 ---
 
-# Shell Conventions
+# Functional Shell Conventions
 
 One root — **predictability**: the same construct chosen every time, so a script's behavior is legible from its text and a class of bugs never occurs.
 
